@@ -1,1 +1,16 @@
+1. what is diff b/w contionus delivery and continous depoly ?
 
+2. i want to create jenkins pipeline 10 stages , i want to execute specfic stage  then what will you do?
+
+     Ans:You can use when expression with every stage that you want to skip. The variables checkoutCode, runSonarScan, 
+	  deployNexusArtifact can be set as environment variables statically or dynamically
+
+3. how do experience ansible? what is diff b/w ansible role and ansible play book?
+
+4. docker home path ? /var/lib/docker
+
+5. jenkins pipeline jenkins agent installed when pipeline trigger ,server fail because space issue even you have space in server.
+
+6. have you implemented docker file, write some docker file with webserver to depoly application?
+
+7. what is horizantal scaling and vertical scaling ?
